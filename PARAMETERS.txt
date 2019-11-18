@@ -1,0 +1,20 @@
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp: <pre>Array
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp: (
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp:     [cipher] => "SBREPORTER"
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp:     [r_type] => "advanceReport"
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp:     [r_prio] => "normal"
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp:     [r_cat] => "Upload Report"
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp:     [program_type] => "Meeting"
+2019-05-30 16:43:23.924 4507-4553/? D/OkHttp:     [note] => "Cinderella - Her evil stepmother and stepsisters would not let her go to the ball, but her fairy godmother made it happen with magic. She danced with the prince and they fell in love. Since she had to leave by midnight, she ran and lost one slipper. The prince found the slipper and searched for her. After he found her, they were married and lived happily ever after"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [oc] => "83,75,"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [fdo] => ""
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [ac] => ""
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [dc] => ""
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [jtcp] => "Joint Commissioner of Police(Intelligence)"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [adcp] => "Additional Commissioner of Police(II)"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [cp] => "Commissioner of Police"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [userid] => "1"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [geolocation] => "22.57249707,88.35240666"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp:     [imei_no] => "358240051111110"
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp: )
+2019-05-30 16:43:23.925 4507-4553/? D/OkHttp: </pre>
