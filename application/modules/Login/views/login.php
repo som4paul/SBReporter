@@ -58,7 +58,7 @@
                                         </a>
                                     </h2>
                                     <h1 class="text-uppercase loginTxt anton zoomIn">Special Branch Reporting System</h1>
-                                    <h3 class="text-dark"><span class="cookie"><em>an Kolkata Police Special Branch initiative</em></span></h3>
+                                    <h3 class="text-dark"><span class="cookie"><em>An Kolkata Police Special Branch initiative</em></span></h3>
                                 </div>
                             </div>
                         </div>
