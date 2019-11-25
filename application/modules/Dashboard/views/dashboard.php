@@ -54,7 +54,7 @@
                                 <div class="card-box widget-box-two widget-two-info">
                                     <i class="mdi mdi-av-timer widget-two-icon"></i>
                                     <div class="wigdet-two-content text-white">
-                                        <p class="m-0 text-uppercase font-600 font-secondary text-overflow" title="Request Per Minute">Ongoing Reports</p>
+                                        <p class="m-0 text-uppercase font-600 font-secondary text-overflow" title="Request Per Minute">Ongoing Reports status</p>
                                         <h2 class="text-white"><small><i class="mdi  text-danger"></i></small></h2>
                                        
                                     </div>
