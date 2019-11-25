@@ -34,8 +34,9 @@ class Login extends MY_Controller {
     // Reload CAPTCHA
     public function newCaptcha() {
         $flag = "reload";
-        $data['image'] = $this->{$this->model}->ciCaptcha($flag); //Calling CAPTCHA Creating Function
-        echo $data['image'];
+        //$data['image'] = $this->{$this->model}->ciCaptcha($flag); //Calling CAPTCHA Creating Function
+        $this->$data['image'] = $this->{$this->model}->ciCaptcha($flag); //Calling CAPTCHA Creating Function
+        echo $this->$data['image']/*$data['image'];*/ ;
     }
 
     // Check login process
